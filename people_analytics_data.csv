@@ -1,0 +1,101 @@
+Employee_ID,Hiring_Source,Department,Years_Experience,Onboarding_Score,Weekly_Commits,MR_Acceptance_Rate,Burnout_Risk_Score,Remote_Work_Pct
+EMP1000,University Recruiting,Data Science,11,61,29,0.76,0.66,0
+EMP1001,Agency,DevOps,9,60,28,0.83,0.3,80
+EMP1002,Indeed,Backend Engineering,14,71,17,0.8,0.36,100
+EMP1003,Agency,Data Science,5,64,11,0.95,0.45,50
+EMP1004,Agency,Data Science,1,96,40,0.95,0.3,0
+EMP1005,Referral,Frontend Engineering,3,91,49,0.9700000000000001,0.42,0
+EMP1006,Indeed,Backend Engineering,10,68,24,0.81,0.56,100
+EMP1007,Indeed,Data Science,12,94,5,0.88,0.69,100
+EMP1008,Indeed,DevOps,8,78,12,0.83,0.71,20
+EMP1009,Agency,DevOps,11,75,20,0.78,0.76,50
+EMP1010,University Recruiting,Frontend Engineering,6,62,18,0.56,0.7,50
+EMP1011,Indeed,Data Science,8,79,16,0.89,0.64,80
+EMP1012,Agency,Backend Engineering,9,83,27,0.89,0.29,20
+EMP1013,Referral,DevOps,4,92,19,0.8500000000000001,0.42,20
+EMP1014,University Recruiting,Data Science,1,83,32,0.89,0.48,20
+EMP1015,Referral,Data Science,14,70,38,0.8600000000000001,0.17,20
+EMP1016,University Recruiting,Frontend Engineering,1,67,6,0.6,0.52,50
+EMP1017,Agency,DevOps,10,95,36,0.63,0.45,50
+EMP1018,LinkedIn,DevOps,4,97,27,0.6,0.74,20
+EMP1019,University Recruiting,Backend Engineering,12,99,26,0.68,0.88,80
+EMP1020,Referral,DevOps,14,79,29,0.5700000000000001,0.54,0
+EMP1021,Agency,Backend Engineering,7,94,26,0.8,0.36,0
+EMP1022,University Recruiting,DevOps,2,84,26,0.66,0.13,80
+EMP1023,LinkedIn,Frontend Engineering,3,94,46,0.81,0.84,20
+EMP1024,LinkedIn,DevOps,1,84,10,0.68,0.84,50
+EMP1025,Indeed,Backend Engineering,5,88,19,0.83,0.3,0
+EMP1026,Indeed,Backend Engineering,1,77,47,0.66,0.66,100
+EMP1027,Referral,Frontend Engineering,8,77,41,0.68,0.16,100
+EMP1028,University Recruiting,DevOps,1,61,37,0.74,0.23,80
+EMP1029,University Recruiting,DevOps,11,94,12,0.83,0.27,20
+EMP1030,Indeed,Frontend Engineering,1,75,48,0.67,0.34,0
+EMP1031,University Recruiting,DevOps,2,95,48,0.95,0.9,20
+EMP1032,University Recruiting,DevOps,2,92,9,0.52,0.66,0
+EMP1033,LinkedIn,Backend Engineering,12,63,43,0.7,0.41,80
+EMP1034,Indeed,DevOps,6,92,8,0.96,0.69,80
+EMP1035,Agency,DevOps,7,73,10,0.76,0.83,100
+EMP1036,Indeed,Frontend Engineering,5,80,49,0.7,0.87,20
+EMP1037,Agency,Frontend Engineering,1,79,36,0.77,0.15,100
+EMP1038,LinkedIn,Data Science,1,67,34,0.78,0.42,20
+EMP1039,Referral,Backend Engineering,3,66,39,0.9,0.19,100
+EMP1040,University Recruiting,DevOps,14,62,44,0.56,0.37,50
+EMP1041,LinkedIn,DevOps,2,76,20,0.62,0.24,50
+EMP1042,University Recruiting,Data Science,5,92,17,0.78,0.62,50
+EMP1043,Referral,DevOps,12,71,46,0.9700000000000001,0.41,50
+EMP1044,Referral,Backend Engineering,10,81,34,0.8200000000000001,0.28,0
+EMP1045,LinkedIn,Data Science,6,81,23,0.61,0.31,50
+EMP1046,Referral,Backend Engineering,7,89,21,0.88,0.39,80
+EMP1047,Agency,Data Science,4,97,23,0.86,0.31,80
+EMP1048,Referral,Data Science,7,97,32,0.66,0.46,0
+EMP1049,University Recruiting,Frontend Engineering,11,67,30,0.68,0.13,50
+EMP1050,University Recruiting,Backend Engineering,8,86,41,0.76,0.32,50
+EMP1051,University Recruiting,DevOps,11,86,30,0.74,0.43,50
+EMP1052,University Recruiting,DevOps,1,93,27,0.69,0.58,100
+EMP1053,Agency,Backend Engineering,6,80,13,0.64,0.32,20
+EMP1054,Indeed,DevOps,8,89,16,0.55,0.21,100
+EMP1055,LinkedIn,DevOps,5,92,5,0.53,0.16,20
+EMP1056,University Recruiting,Backend Engineering,4,87,5,0.96,0.85,50
+EMP1057,Referral,Data Science,2,92,38,0.9600000000000001,0.43,50
+EMP1058,University Recruiting,Backend Engineering,6,64,36,0.67,0.56,100
+EMP1059,Referral,Data Science,6,78,29,1.0,0.84,100
+EMP1060,Referral,DevOps,11,63,44,0.87,0.17,20
+EMP1061,University Recruiting,DevOps,1,94,49,0.73,0.8,80
+EMP1062,Agency,DevOps,9,76,5,0.74,0.54,20
+EMP1063,Referral,Frontend Engineering,12,87,20,0.5900000000000001,0.23,100
+EMP1064,Referral,Data Science,11,89,43,0.5900000000000001,0.43,100
+EMP1065,University Recruiting,Frontend Engineering,6,88,9,0.79,0.72,0
+EMP1066,Referral,Frontend Engineering,13,65,26,0.8200000000000001,0.48,100
+EMP1067,Referral,Backend Engineering,3,94,33,0.65,0.89,0
+EMP1068,University Recruiting,Frontend Engineering,4,96,7,0.95,0.4,80
+EMP1069,University Recruiting,Backend Engineering,12,83,16,0.88,0.7,20
+EMP1070,LinkedIn,Backend Engineering,11,88,30,0.55,0.41,20
+EMP1071,Agency,Frontend Engineering,4,90,20,0.95,0.76,0
+EMP1072,Agency,Data Science,3,94,41,0.97,0.56,20
+EMP1073,Referral,Data Science,10,92,26,1.0,0.15,100
+EMP1074,Agency,Data Science,3,80,33,0.53,0.13,50
+EMP1075,Referral,Data Science,3,91,18,0.9,0.21,0
+EMP1076,LinkedIn,Data Science,4,82,32,0.76,0.11,20
+EMP1077,University Recruiting,Frontend Engineering,7,92,9,0.84,0.16,0
+EMP1078,University Recruiting,Frontend Engineering,4,62,34,0.96,0.65,0
+EMP1079,University Recruiting,DevOps,9,77,9,0.83,0.53,50
+EMP1080,Agency,Data Science,1,84,16,0.9,0.7,100
+EMP1081,LinkedIn,Frontend Engineering,8,90,20,0.92,0.83,0
+EMP1082,Agency,DevOps,7,62,30,0.9,0.57,20
+EMP1083,Agency,Data Science,2,99,30,0.7,0.68,80
+EMP1084,LinkedIn,Backend Engineering,8,83,25,0.61,0.71,0
+EMP1085,LinkedIn,DevOps,1,91,43,0.69,0.4,0
+EMP1086,LinkedIn,Frontend Engineering,11,81,40,0.93,0.29,50
+EMP1087,LinkedIn,Backend Engineering,12,82,37,0.57,0.26,100
+EMP1088,University Recruiting,Backend Engineering,9,61,34,0.75,0.3,80
+EMP1089,Indeed,Backend Engineering,9,86,41,0.61,0.32,20
+EMP1090,Indeed,DevOps,2,61,27,0.78,0.27,80
+EMP1091,LinkedIn,Frontend Engineering,7,85,14,0.91,0.8,20
+EMP1092,Indeed,Backend Engineering,14,76,9,0.92,0.71,100
+EMP1093,Indeed,Data Science,10,99,40,0.61,0.14,20
+EMP1094,LinkedIn,Backend Engineering,3,92,38,0.94,0.31,50
+EMP1095,Indeed,Backend Engineering,7,68,35,0.78,0.12,50
+EMP1096,Agency,DevOps,12,98,14,0.67,0.5,50
+EMP1097,Referral,DevOps,10,88,23,0.89,0.48,50
+EMP1098,Referral,Frontend Engineering,9,85,36,0.78,0.77,80
+EMP1099,LinkedIn,Data Science,4,94,5,0.68,0.35,100
