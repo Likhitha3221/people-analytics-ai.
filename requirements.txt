@@ -3,3 +3,4 @@ pandas
 matplotlib
 langchain-groq
 langchain-experimental
+tabulate
